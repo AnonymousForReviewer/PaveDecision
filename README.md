@@ -1,1 +1,1 @@
-This repository include the source code of the www.PaveDecision.com application
+This temporary repository includes the source code of the www.PaveDecision.com application that is created to support the peer review process of Automation in Construction journal. This temporary folder will be deleted after the peer review is completed.
